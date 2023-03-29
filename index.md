@@ -3,9 +3,9 @@
 layout: col-sidebar
 title: OWASP Halifax
 tags: example-tag
+region:  Canada
 level: 0
-
-region: Canada
+meetup-group:
 
 auto-migrated: 1
 
