@@ -7,7 +7,6 @@ region:  Canada
 level: 0
 meetup-group:
 
-auto-migrated: 1
 
 ---
 
