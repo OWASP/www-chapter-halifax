@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Halifax
-tags: example-tag
+tags: OWASP Halifax Canada Application Network Security
 region:  Canada
 level: 0
-meetup-group:
+meetup-group: OWASP Halifax Chapter
 
 ---
 
