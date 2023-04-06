@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* Halifax, Nova Scotia, Canada
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/)
+* [Discord](https://discord.gg/XB6k9RePBZ)
