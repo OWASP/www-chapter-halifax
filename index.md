@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Halifax
 tags: OWASP Halifax Canada Application Network Security
-region:  Canada
+region:  North America
 level: 0
 meetup-group: OWASP Halifax Chapter
 
