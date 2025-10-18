@@ -1,0 +1,30 @@
+leaders:
+  - name: Kashyap Patel
+    email: kashyap.patel@owasp.org
+    github: TheCyberFang
+  - name: Abhishek Kumar
+    email: abhishek.kumar@owasp.org
+    github: gojo-satorou-v7
+  - name: Heta Thakor
+    email: heta.thakor@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Nova Scotia
+  city: Halifax
+  latitude: 44.648618
+  longitude: -63.5859487
+meetup_group: OWASP Halifax Chapter
+name: OWASP Halifax
+repositories:
+  - name: www-chapter-halifax
+    url: https://github.com/OWASP/www-chapter-halifax
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Halifax
+  - Canada
+  - Application
+  - Network
+  - Security
+website: https://owasp.org/www-chapter-halifax
